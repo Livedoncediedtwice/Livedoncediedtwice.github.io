@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+menus: header
 ---
 # About page
 

@@ -1,3 +1,7 @@
 url: "https://livedoncediedtwice.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

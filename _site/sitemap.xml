@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://livedoncediedtwice.com/2019/10/27/why.html</loc>
+<loc>http://localhost:4000/2019/10/27/why.html</loc>
 <lastmod>2019-10-27T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://livedoncediedtwice.com/about.html</loc>
+<loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
-<loc>https://livedoncediedtwice.com/blog.html</loc>
+<loc>http://localhost:4000/blog.html</loc>
 </url>
 <url>
-<loc>https://livedoncediedtwice.com/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>
