@@ -11,6 +11,10 @@
 <loc>http://localhost:4000/blog.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/indexOld.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
+<lastmod>2019-11-07T21:03:45-07:00</lastmod>
 </url>
 </urlset>
